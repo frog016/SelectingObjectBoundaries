@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44a1206e_002D8d01_002D411b_002Da425_002Db7129fa611d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PictureWithSizeOneXOne" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.TestClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class.ThresholdFilterOneXTwo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class.ThresholdFilterOneXTwoSecond&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class1.SobelTreeXTree&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class1.ImageFourXFour&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.Class1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.MyClass.GetLengthBeforLoop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.MyClass.GetLengthInLoop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5EBAB5F-AFCC-4169-8F68-5EB41871441A::.NETFramework,Version=v4.7.2::Recognizer.MyClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
